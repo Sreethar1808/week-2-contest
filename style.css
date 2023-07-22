@@ -43,7 +43,7 @@ cursor: pointer;
 
 #main{
     position: relative;
-    background-image: url('./Rectangle 31.jpg');
+    background-image: url('../Rectangle 31.jpg');
     width: 1386px;
     font-family:Arial, Helvetica, sans-serif;
     font-size: 23px;
@@ -216,7 +216,7 @@ justify-content: center;
 
 #footer{
     position: relative;
-    background-image: url('./Rectangle 31.jpg');
+    background-image: url('../Rectangle 31.jpg');
     width: 1386px;
 height: 742px;
 top: 450px;
