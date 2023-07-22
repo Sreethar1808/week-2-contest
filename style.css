@@ -1,0 +1,269 @@
+.sticky{
+    position: sticky;
+    top: 0px;
+    z-index: 100;
+    padding: 10px;
+    background-color: #FFFDF8;
+    
+}
+ul{
+    list-style: none;
+    margin:0;
+    padding:0;
+    display: flex;
+}
+
+.Bl{
+    list-style-type: none;
+    position: absolute;
+    top: 35px;
+    left:250px;
+    font-size: 20px;
+}
+.m1{
+    position: absolute;
+    left:900px;
+    top:36px;
+    font-size: 20px;
+}
+
+.button0{
+    position: absolute;
+    background-color: #184655;
+    color:white;
+    font-size: 25px;
+    width: 223px;
+height: 49px;
+top: 30px;
+left: 1168px;
+border-radius: 23.5px;
+cursor: pointer;
+
+}
+
+#main{
+    position: relative;
+    background-image: url('./Rectangle 31.jpg');
+    width: 1386px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 23px;
+    line-height: 1.2;
+    height: 742px;
+    top: 155px;
+    left: 27px;
+    border-radius: 50px;
+    box-shadow: 4px 4px 4px #E0DEDA;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.head{
+    position: relative;
+    color: #184655;
+    font-weight:900;
+    height: 150px;
+    top: 180px;
+    left: 100px;
+}
+.image1{
+    position: absolute;
+    left:800px;
+    top:180px;
+
+}
+.type{
+    position: absolute;
+    width: 390px;
+    height: 50px;
+    border-radius: 15% 0 0 15%;
+    border: #E0DEDA;
+    top:350px;
+    left:100px
+}
+.button{
+    position: absolute;
+    background-color: #184655;
+    text-align: center;
+    font-size: 25px;
+    justify-content: center;
+    color: white;
+    padding: 10px;
+    width: 150px;
+    height: 50px;
+    border-radius: 0 15px 15px 0;
+    left: 490px;
+    top:350px;
+    cursor: pointer;
+}
+.button:hover{
+    background-color: black;
+}
+
+.design{
+    position: absolute;
+    top: 400px;
+    left:100px;
+}
+.design1{
+    position: absolute;
+    top: 400px;
+    left: 240px;
+}
+.design2{
+    position: absolute;
+    top: 400px;
+    left:380px;
+}
+
+#main1{
+    
+    position: relative;
+    padding: 20px;
+    width: 1386px;
+height: 460px;
+top: 250px;
+left: 27px;
+border-radius: 40px;
+background-color: #F5FCF5;
+box-shadow: 4px 4px 4px #E0DEDA;
+flex-wrap: wrap;
+justify-content: center;
+}
+.heading{
+    position: absolute;
+    right: 20px;
+    top:0px;
+    left:720px;
+    font-size: 50px;
+}
+
+.fixed{
+    position: absolute;
+    width: Fixed (612px);
+    height: Hug (29px);
+    top: 90px;
+    left: 720px;
+    
+
+}
+.fixed1{
+    position: absolute;
+    width: Fixed (612px);
+    height: Hug (29px);
+    top: 90px;
+    left: 1330px;
+    
+}
+
+.para{
+    position: absolute;
+    left:720px;
+    right:20px;
+    font-size: 30px;
+    top:120px;
+}
+.image2{
+    
+    width: 671px;
+    height: 460px;
+    top: 968px;
+    left: 49px;
+    border-radius: 15px;
+    
+}
+#blogs{
+    display:flex;
+    flex-wrap: wrap;
+    top: 250px;
+    justify-content: center;
+}
+.blog{
+    position: relative;
+    border-radius: 10%;
+    width:431.53167724609375px;
+    height: 469px;
+    box-shadow: 4px 4px 4px #E0DEDA;
+    top:350px;
+    margin:15px;
+}
+
+.parag{
+    position: absolute;
+    font-size: 24px;
+    top:270px;
+    left:20px;
+    right:20px;  
+}
+.paragh{
+    position: absolute;
+    top:350px;
+    left:20px;
+    right: 20px;
+}
+
+.paragh1{
+    position: absolute;
+    top:420px;
+    right:30px;
+    font-size: 20px;
+}
+.image3{
+    position: absolute;
+    width:431.53167724609375px;
+    height: 269px;
+    border-radius: 20px;
+}
+
+
+#footer{
+    position: relative;
+    background-image: url('./Rectangle 31.jpg');
+    width: 1386px;
+height: 742px;
+top: 450px;
+left: 27px;
+border-radius: 50px;
+box-shadow: 4px 4px 4px #E0DEDA;
+flex-wrap: wrap;
+justify-content: center;
+
+}
+.image4{
+    position: absolute;
+    left:800px;
+    top:240px;
+    width:500px;
+}
+.first-w{
+    position: absolute;
+    font-size: 35px;
+    top:200px;
+    left:250px;
+}
+.second-w{
+    position: absolute;
+    font-size: 45px;
+    left:250px;
+    top: 220px;
+    font-weight: 800;
+    font-family:sans-serif;
+
+    
+}
+.third-w{
+     position: absolute;
+     font-size: 40px;
+     top: 285px;
+     left: 250px;
+}
+.button2{
+    position: absolute;
+    background-image: linear-gradient(to right, #2C56AA, #358F96, #3BB08B);
+    color:white;
+    left:250px;
+    top:450px;
+    width:223px;
+    height: 49px;
+    border-radius: 20%;
+    font-size: 20px;
+    cursor: pointer;
+}
